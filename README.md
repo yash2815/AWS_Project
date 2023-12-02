@@ -13,4 +13,4 @@ Upon reaching the "In alarm" state, I confirmed the spike in CPU utilization by 
 Finally, I received an email notification via Amazon SNS alerting me about the In alarm state.
 
 For detailed Instructions, check out Stepwise guide in the repository.
-For visualized or pictorial guide, check out Screenshots repository
+For visualized or pictorial guide, check out Screenshots repository.
